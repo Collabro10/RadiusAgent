@@ -1,7 +1,8 @@
 # Radius Agent Assignment
 
-<img src="./img/snap1.png" alt="Kitten" title="A cute kitten" width="150" style="padding-left: 100px"/> 
-<img src="./img/snap2.png" alt="Kitten" title="A cute kitten" width="150" style="padding-left: 100px"/> 
+|||
+|:--:|:--:|
+|<img src="./img/snap1.png" alt="Kitten" title="A cute kitten" width="200" style="padding-left: 50px"/> | <img src="./img/snap2.png" alt="Kitten" title="A cute kitten" width="200" style="padding-left: 50px"/> |
 
 ### Introduction
 
